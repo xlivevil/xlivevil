@@ -6,7 +6,7 @@
 
 </div>
 
-[![xlivevil's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlivevil&show_icons=true&theme=buefy)](https://github.com/xlivevil)
+[![xlivevil's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlivevil&show_icons=true&hide_title=true&theme=omni&&hide_border=true)](https://github.com/xlivevil)
 
 
 
