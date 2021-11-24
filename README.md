@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![](https://img.shields.io/badge/-Blog-orange?style=for-the-badge&color=8B4513&logo=rss&logoColor=white)](https://www.xllivevil.com/)
+[![](https://img.shields.io/badge/-Blog-orange?style=for-the-badge&color=8B4513&logo=rss&logoColor=white)](https://www.xlivevil.com/)
 
 </div>
 
