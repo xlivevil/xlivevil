@@ -9,9 +9,9 @@
 [![xlivevil's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlivevil&show_icons=true&hide_title=true&theme=omni&&hide_border=true)](https://github.com/xlivevil)[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xlivevil)](https://wakatime.com/@xlivevil)
 -->
 
-
-| <a href="https://github.com/xlivevil"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xlivevil&show_icons=true&hide_title=true&theme=omni&&hide_border=true" alt="xlivevil's github stats" /></a> | <a href="https://wakatime.com/@xlivevil"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xlivevil" alt="xlivevil's wakatime stats" /></a> |
-| ------------- | ------------- |
+<p align="center">
+<a href="https://github.com/xlivevil"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xlivevil&show_icons=true&hide_title=true&theme=omni&&hide_border=true" alt="xlivevil's github stats" /></a><a href="https://wakatime.com/@xlivevil"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xlivevil" alt="xlivevil's wakatime stats" /></a>
+</p>
 
 
 <div align="center">
