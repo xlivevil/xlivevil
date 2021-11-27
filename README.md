@@ -10,7 +10,7 @@
 -->
 
 <p align="center">
-<a href="https://github.com/xlivevil"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xlivevil&show_icons=true&hide_title=true&theme=omni&&hide_border=true" alt="xlivevil's github stats" /></a><a href="https://wakatime.com/@xlivevil"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xlivevil" alt="xlivevil's wakatime stats" /></a>
+<a href="https://github.com/xlivevil"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=xlivevil&show_icons=true&hide_title=true&theme=omni&&hide_border=true" alt="xlivevil's github stats" /></a><a href="https://wakatime.com/@xlivevil"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xlivevil" alt="xlivevil's wakatime stats" /></a>
 </p>
 
 
